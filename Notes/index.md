@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content selfedu">
+<div class="index-content notes">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
@@ -13,7 +13,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.selfedu %}
+        {% for post in site.categories.notes %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
