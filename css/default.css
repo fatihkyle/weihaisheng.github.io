@@ -168,9 +168,9 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .cate-bar { width:85%; }
     .index-content .artical-cate { margin-top:50px; }
 
-    .community .aside,
-    .selfedu .aside,
-    .murmur .aside {display:none;background-image:none;}
+    .blog .aside,
+    .notes .aside,
+    .stories .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){
