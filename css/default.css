@@ -67,8 +67,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ul li{margin-bottom:5px;list-style:disc;line-height:1.8em;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}
-.entry blockquote{margin-left:10px;font-size:16px;margin-right:25px;color:#555;
-  border-left:5px solid #ccc;padding:5px 30px;background:#eee;margin-bottom:20px}
+.entry blockquote{margin-left:5px;font-size:16px;margin-right:25px;color:#555;
+  border-left:5px solid #ccc;padding:5px 10px;background:#eee;margin-bottom:20px}
 .entry blockquote p{margin:0px}
 .entry img{max-width:670px;display:block;margin:10px auto;}
 .entry center{margin-bottom: 40px;color:#999;font-size:14px;}
