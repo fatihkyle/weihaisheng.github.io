@@ -86,13 +86,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.community .aside{
+.blog .aside{
     background-image:url(https://cdn.gushihao.com/seaside1.jpg);
 }
-.selfedu .aside{
+.notes .aside{
     background-image:url(https://cdn.gushihao.com/aside2.jpeg);
 }
-.murmur .aside{
+.stories .aside{
     background-image:url(https://cdn.gushihao.com/aside3.jpg);
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
