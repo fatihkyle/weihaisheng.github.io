@@ -13,3 +13,5 @@ title: ishanshan's blog
 url: http://ishanshan.top
 feed: /atom.xml
 author_info: <a href="http://ishanshan.top/">ishanshan</a>
+
+theme: jekyll-theme-cayman
