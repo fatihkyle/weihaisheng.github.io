@@ -5,7 +5,7 @@ layout: home
 <div class="index-content selfedu">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Community</span></a></li>
+            <li><a href="/"><span>Blog</span></a></li>
             <li class="on" style="text-align:center"><a href="/Notes"><span>Notes</span></a></li>
             <li style="text-align:right"><a href="/Stories"><span>Stories</span></a></li>
         </ul>
