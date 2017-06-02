@@ -1,8 +1,8 @@
+
 ---
 layout: post
 title: 《奇特的一生》读后感
-categories: [notes]
-tags: [奇特的一生, 柳比歇夫, ]
+category: notes
 description: 《奇特的一生》读后感
 ---
 
