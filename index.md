@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content community">
+<div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Blog</span></a></li>
@@ -13,7 +13,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.community %}
+        {% for post in site.categories.blog %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
