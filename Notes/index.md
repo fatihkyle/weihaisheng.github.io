@@ -16,7 +16,7 @@ layout: home
         {% for post in site.categories.notes %}
             <li>
                 <h2>
-                    <a href="Notes/{{ post.url }}">{{ post.title }}</a>
+                    <a href="{{ post.url }}">{{ post.title }}</a>
                 </h2>
                 <div class="title-desc">{{ post.description }}</div>
             </li>
