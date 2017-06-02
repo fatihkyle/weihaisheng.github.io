@@ -1,3 +1,11 @@
+---
+layout: post
+title: 《奇特的一生》读后感
+categories: [Blog ]
+tags: [奇特的一生, 柳比歇夫, ]
+description: 《奇特的一生》读后感
+---
+
 ![](http://upload-images.jianshu.io/upload_images/1759866-b29c8dfd60f8a34c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)我曾礼节性地推荐《奇特的一生》给身边不少朋友。之所以说「礼节性」，因为我深知大多数人听过之后不会放在心上，更不用说认真读完它了，于是就索性点到为止，以免招致反感。本周六我刚读完了这本书，正好趁着周日空闲时间谈谈自己的阅读感受。
 
 ### 设立目标
