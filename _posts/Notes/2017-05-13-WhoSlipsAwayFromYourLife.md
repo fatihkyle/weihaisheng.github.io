@@ -32,4 +32,4 @@ description: 人的一生没有什么注定到老的，恋人，同学，朋友�
 当然，还有李静临走前那一抹清浅的笑意缓缓地浮现，它仿佛就是一面湖水中的暖日，散发着柔柔的光，透着柔柔的意，漾在我憨真的面庞，也照在每一个人的心上。
 
 
-  [1]: http://static.zybuluo.com/weihaisheng/cle2k2gfqlh7qggoccflfdrr/dzdd.jpg
+  [1]: https://cdn.gushihao.com/dzdd.jpg
