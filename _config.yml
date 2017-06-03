@@ -15,3 +15,6 @@ feed: /atom.xml
 author_info: <a href="http://www.weihaisheng.com/">weihaisheng</a>
 
 theme: jekyll-theme-cayman
+
+paginate:5
+paginate_path: "page:num"
