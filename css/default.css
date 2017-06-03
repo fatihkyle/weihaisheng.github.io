@@ -156,7 +156,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
     .entry-title,.entry-title a {font-size:22px;}
     .entry-date {margin-bottom:30px;}
-    .entry img{max-width:90%;}
+    .entry img{max-width:100%;}
     .entry pre ol li{margin-bottom:0;line-height:1em;}
     .entry pre code{line-height:1em;font-size:12px;}
     .sidenav {display:none;}
