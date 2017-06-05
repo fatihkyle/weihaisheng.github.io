@@ -6,8 +6,8 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li><a href="https://www.weihaisheng.com/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="https://www.weihaisheng.com/Notes"><span>Notes</span></a></li>
-            <li class="on" style="text-align:right"><a href="https://www.weihaisheng.com/Stories"><span>Stories</span></a></li>
+            <li style="text-align:center"><a href="https://www.weihaisheng.com/notes"><span>Notes</span></a></li>
+            <li class="on" style="text-align:right"><a href="https://www.weihaisheng.com/stories"><span>Stories</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
