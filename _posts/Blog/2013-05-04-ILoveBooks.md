@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 书之爱
-category: notes
+category: blog
 description: 于是你可以在书中，看到长久以来追求的智慧，从所有的书页上绽放光芒——因为现在这个智慧已属于你。
 ---
 
