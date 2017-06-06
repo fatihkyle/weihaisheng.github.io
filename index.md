@@ -23,7 +23,10 @@ layout: home
     </div>
     <div class="aside">
     </div>
-    
+
+</div>
+
+
     <ul class="pagination">
         <li>
             <a href="{{ site.baseurl}}/article/">
@@ -74,7 +77,4 @@ layout: home
             <span>第{{paginator.page}}页 / 共{{paginator.total_pages}}页</span>
         </li>
 </ul>
-
-</div>
-
 
