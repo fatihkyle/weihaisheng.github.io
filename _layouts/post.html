@@ -44,21 +44,21 @@ s.setAttribute('data-timestamp', +new Date());
 	
 
     <div class="sidenav">
-        <h2>Blog</h2>
+        <h2><a href="https://www.weihaisheng.com/">Blog</a></h2>
         <ul class="artical-list">
         {% for post in site.categories.blog limit:8 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
 
-        <h2>Notes</h2>
+        <h2><a href="https://www.weihaisheng.com/Notes/">Notes</a></h2>
         <ul class="artical-list">
         {% for post in site.categories.notes limit:8 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
 
-        <h2>Stories</h2>
+        <h2><a href="https://www.weihaisheng.com/Stories/"></a>Stories</h2>
         <ul class="artical-list">
         {% for post in site.categories.stories limit:8 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
