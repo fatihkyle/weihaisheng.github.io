@@ -44,7 +44,7 @@ s.setAttribute('data-timestamp', +new Date());
 	
 
     <div class="sidenav">
-        <h2>Blog （<a href="https://www.weihaisheng.com/">查看更多文章</a>）</h2>
+        <h2>Blog （<a href="https://www.weihaisheng.com/">更多</a>）</h2>
         <ul class="artical-list">
         {% for post in site.categories.blog limit:8 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -64,7 +64,6 @@ s.setAttribute('data-timestamp', +new Date());
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
-        <li><a href="https://www.weihaisheng.com/Stories/">查看更多文章……</a></li>
     </div>
 </div>
 
