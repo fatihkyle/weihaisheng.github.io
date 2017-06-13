@@ -1,8 +1,8 @@
+---
 layout: post
 title: 每一个人都可能成为作家
 category: notes
 description: 《成为作家》这个书名同样容易蛊惑人心——即使读完了这本书，也不会成为作家。
-
 ---
 
 我讨厌写作，我不喜欢当作家。
