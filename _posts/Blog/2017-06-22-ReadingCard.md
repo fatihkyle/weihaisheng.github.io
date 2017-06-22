@@ -30,4 +30,4 @@ description: 当前我在使用的写作工具组合是：幕布(mubu.com) + 为
 
   [1]: https://kapian.org.cn/p/2-rules
   [2]: https://daka.weihaisheng.com
-  [3]: http://static.zybuluo.com/weihaisheng/ed71z6uix73vaeoc0c89uw44/InfoKonwledgeCreate.png
+  [3]: https://www.weihaisheng.com/images/kap.png
