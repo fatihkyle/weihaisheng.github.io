@@ -19,10 +19,6 @@ layout: default
         <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
         {{ content }}
     <br>     
-        {% endif %}
-    {% if page.comments != ture %}
-        {% include disqus_comments.html %}
-    {% endif %}
     </div>
 	
 
