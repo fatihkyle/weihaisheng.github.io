@@ -18,7 +18,11 @@ layout: default
         <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
         <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
         {{ content }}
-    <br>                                   
+    <br>     
+    {% endif %}
+    {% if page.comments != false %}
+    {% layouts disqus_comments.html %}
+    {% endif %}
     </div>
 	
 
