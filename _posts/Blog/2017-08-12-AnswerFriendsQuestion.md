@@ -28,6 +28,7 @@ description: 我始终相信一个人的自信更多来自于有活力的身体�
 
 至于绑定了 SSL 证书，用一个朋友的话说，是装逼用的。其实 GitHub Pages 并不支持绑定域名使用 https 访问，不过可以用 301 跳转。我用了 CloudFlare 的 DNS 服务，并建立了两个页面规则：
 
+![301][https://raw.githubusercontent.com/weihaisheng/weihaisheng.github.io/master/images/301.jpg]
 
 如果你的域名原解析过多，更改 DNS 之后不能直接导过去，一条一条添加就麻烦一些，还有 CloudFlare 的 CDN 节点在国内解析比较慢。不过博客只有一些静态文件，零点几秒的访问速度差别没人感觉出来。
 
