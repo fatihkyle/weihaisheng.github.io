@@ -67,7 +67,6 @@ description: 我始终相信一个人的自信更多来自于有活力的身体�
 如果你依附于某个平台，以写作为生，你就无法客观起来，你不能随便质疑，你得小心翼翼地掂量什么话能说什么话不能说。这同样让你的写作变得艰难。对了，最后送给你几个字，也是送给我的：**勿忘初心**。别笑这个词很烂，它很有用，真的。
 
 #### **ChangeLog**
-
-20170812 初稿
+- 20170812 初稿
 
 [1]:https://raw.githubusercontent.com/weihaisheng/weihaisheng.github.io/master/images/301.jpg
