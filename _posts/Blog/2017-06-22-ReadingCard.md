@@ -30,7 +30,7 @@ description: 当前我在使用的写作工具组合是：幕布(mubu.com) + 为
 到以输出文章为主的阶段，就要训练自己强大的拼接卡片写成文章的能力。这一点可以向纳博科夫学习。在该阶段我使用的工具是博客：
 
 - **文件（文章）**
-  - [打卡备忘录][7]
+  - [每日读写记][7]
   - [博客][8]
   - 微信公众号（韦编三绝）
 
@@ -45,6 +45,7 @@ description: 当前我在使用的写作工具组合是：幕布(mubu.com) + 为
 
 
 #### **CHANGLOG**
+- 20170820  把打卡网页改为：duxieji.com
 - 20170627  增补内容，修改段落
 - 20170622  初稿
 
@@ -53,6 +54,6 @@ description: 当前我在使用的写作工具组合是：幕布(mubu.com) + 为
   [3]: https://www.weihaisheng.com/images/mubu1.png
   [4]: https://kapian.org.cn
   [5]: https://kapian.org.cn
-  [6]: https://daka.weihaisheng.com
-  [7]: https://daka.weihaisheng.com/
+  [6]: https://www.duxieji.com/
+  [7]: https://www.duxieji.com/
   [8]: https://www.weihaisheng.com/
