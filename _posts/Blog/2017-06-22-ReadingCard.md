@@ -55,5 +55,5 @@ description: 当前我在使用的写作工具组合是：幕布(mubu.com) + 为
 [4]: https://kapian.org.cn
 [5]: https://kapian.org.cn
 [6]: https://www.duxieji.com
-[7]: https://www.duxieji.com
+[7]: https://www.duxieji.com/
 [8]: https://www.weihaisheng.com
