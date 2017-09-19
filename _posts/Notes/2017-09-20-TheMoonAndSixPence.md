@@ -9,7 +9,7 @@ description: 毛姆也说，爱情的基本成分是慈悲，查尔斯对人对�
 
 假如你看过高更传世画作《我们从哪里来？我们是谁？我们往哪里去？》（Where Do We Come From? What Are We? Where Are We Going?），大概就会明白高更并非不可理喻的艺术家，他可以为艺术达到痴迷状态（如离家出走），却符合现实逻辑，读者也可理解。他不会因为绘画而抛妻弃子，相反他还会卖画养家，也难怪布拉德利·柯林斯在《凡高与高更》里批评毛姆杜撰超过事实。
 
-![](https://github.com/weihaisheng/weihaisheng.github.io/blob/master/images/gaogeng.jpg?raw=true)
+![](https://raw.githubusercontent.com/weihaisheng/weihaisheng.github.io/master/images/gaogeng.jpg)
 
 在《月亮》中，毛姆不仅写了一个他认为是真正艺术家的查尔斯·斯特里克兰德走上绘画之路的前前后后，还加入对女性的欲望。小说中三位女主人公的命运则分别暗示了毛姆在现实世界中无法实现的对女人的报复和渴望。
 
